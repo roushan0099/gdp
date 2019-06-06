@@ -201,7 +201,7 @@ ul.grt-menu li.grt-dropdown ul.grt-dropdown-list {
 ul.grt-menu li.grt-dropdown ul.grt-dropdown-list li a {
 	display:block;
 	font-size:18px;
-	color: rgb(255, 255, 255);
+	color: rgb(7, 52, 255);
 	-webkit-transition: all ease 0.8s;
 	-moz-transition: all ease 0.8s;
 	transition: all ease 0.8s;
@@ -213,7 +213,7 @@ ul.grt-menu li.grt-dropdown ul.grt-dropdown-list li:last-child a {
 }
 
 ul.grt-menu li.grt-dropdown.active-dropdown {
-	background: #000000;
+	background: #ffffff;
 }
 
 ul.grt-menu li.grt-dropdown.active-dropdown ul.grt-dropdown-list {
@@ -221,7 +221,7 @@ ul.grt-menu li.grt-dropdown.active-dropdown ul.grt-dropdown-list {
 }
 
 ul.grt-menu li.grt-dropdown.active-dropdown a {
-	color:rgb(255, 255, 255);
+	color:rgb(40, 3, 250);
 }
  footer {
     width: 100%;
