@@ -281,7 +281,7 @@ ul.grt-menu li.grt-dropdown ul.grt-dropdown-list li:last-child a {
 }
 
 ul.grt-menu li.grt-dropdown.active-dropdown {
-	background: #f8f8f8;
+	background: #e98b8b;
 }
 
 ul.grt-menu li.grt-dropdown.active-dropdown ul.grt-dropdown-list {
@@ -304,12 +304,9 @@ ul.grt-menu li a {
 	padding: 5px 12px;
 	font-size:15px;
 	display: inline-block;
-	color:#8b6464;
+	color:#2e00fa;
 	line-height: 1.1em;
-	box-shadow: inset 0 0 0 0 rgb(211, 146, 5);
-	-webkit-transition: all ease 0.8s;
-	-moz-transition: all ease 0.8s;
-	transition: all ease 0.8s;
+	
 	position:relative;
 	text-decoration: none;
 	text-transform: lowercase;
@@ -322,7 +319,7 @@ ul.grt-menu li.active a:after  {
     content: "";
     left: 12px;
     right: 12px;
-    border-bottom: 2px solid #08c221;
+    border-bottom: 2px solid #3e10e4;
 }
 
 @keyframes fadeIn {
