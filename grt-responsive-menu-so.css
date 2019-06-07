@@ -20,6 +20,9 @@ h5 {
 	font-size: 14px;
 	color: #000;
 }
+.contact a:hover {
+color: #f10000;
+}
 .contact a {
 	color: #000;
 }
